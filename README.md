@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://aristi.dev">Sebastian</a> 👋</h1>
 </div>
-<img src="https://drive.google.com/file/d/1mCLICRgijyY4-niUb6hCpA1MFYM7kJl9/view?usp=drive_link">
+<img src="https://imgur.com/JprVyTl">
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
