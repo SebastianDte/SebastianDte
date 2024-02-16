@@ -2,6 +2,7 @@
 <h1 align="center">Hola, soy <a href="https://aristi.dev">Sebastian</a> 👋</h1>
 </div>
 <img src="https://i.imgur.com/JprVyTl.png">
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sebastiandte/)
 
 [![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
