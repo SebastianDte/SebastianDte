@@ -4,7 +4,13 @@
 <img src="https://i.imgur.com/JprVyTl.png">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sebastiandte/)
-[![Blog](https://img.shields.io/badge/Blog-Visit-blueviolet)](https://yourblog.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Ver-5C2D91?labelColor=5C2D91&color=6c757d)](https://sebastiandte.github.io/Portfolio/)
+
+
+
+
+
+
 
 ## Sobre mi
 
