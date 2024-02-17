@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://aristi.dev">Sebastian</a> 👋</h1>
 </div>
-<img src="https://imgur.com/iM1mlhq">
+<img src="https://i.imgur.com/iM1mlhq.png">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sebastiandte/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Ver-5C2D91?labelColor=5C2D91&color=6c757d)](https://sebastiandte.github.io/Portfolio/)
