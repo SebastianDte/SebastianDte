@@ -26,10 +26,7 @@
 <table>
 <tr>
 <td width="50%">
-   
  <br>
- <br>
- 
 <h3 align="center">Gestión de Discos</h3>
 <div align="center">
 <a href="https://github.com/SebastianDte/Discos" target="_blank"><img src="https://i.imgur.com/0pX2nXS.png" width="500" alt="Gestión de Discos"></a>
@@ -47,7 +44,7 @@
 </div>                                                                               
 </td>
 <td width="50%">
-               
+ <br>       
 <h3 align="center">e-commerce</h3>
 <div align="center">                                       
 <a href="https://github.com/SebastianDte/e-commerce" target="_blank"><img src="https://i.imgur.com/S9b5e7L.png" width="500" alt="Winforms App, e-Commerce"></a>
