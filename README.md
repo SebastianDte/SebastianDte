@@ -27,6 +27,7 @@
 <tr>
 <td width="50%">
  <br>
+ <br>
 <h3 align="center">Gestión de Discos</h3>
 <div align="center">
 <a href="https://github.com/SebastianDte/Discos" target="_blank"><img src="https://i.imgur.com/0pX2nXS.png" width="500" alt="Gestión de Discos"></a>
