@@ -49,10 +49,10 @@
                <br>
 <h3 align="center">e-commerce</h3>
 <div align="center">                                       
-<a href="" target="_blank"><img src="https://i.imgur.com/S9b5e7L.png" width="500" alt="Winforms App, e-Commerce"></a>
+<a href="https://github.com/SebastianDte/e-commerce" target="_blank"><img src="https://i.imgur.com/S9b5e7L.png" width="500" alt="Winforms App, e-Commerce"></a>
 <br>
 <p>
-<a href="" target="_blank">
+<a href="https://github.com/SebastianDte/e-commerce" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="" target="_blank">
