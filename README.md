@@ -59,7 +59,8 @@
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
 </a>
 </p>
-</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
+Proyecto de e-commerce en proceso de construcción, utilizando .NET Framework. Esta aplicación está siendo diseñada como proyecto personal para la compra y venta de productos en línea. Con características como sistemas de pago seguros, gestión de perfiles de usuario y una interfaz intuitiva. Puedes ir viendo los avances haciendo click en la imagen
+</p>
 </div>                                                             
 </table>                                                                                 
 
