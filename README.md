@@ -37,7 +37,10 @@
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
-<p>Aplicación Winforms para la gestión de Discos Músicales, creado en .NET Framework, C#, ADO.NET..</p>
+<p>
+  Aplicación para la gestión de Discos musicales en la cual se pueden insertar, modificar o eliminar Discos, hacer búsquedas avanzadas contra la base de datos o rápidas sobre una copia de la lista. Posibilidad de subir imágenes locales o desde la web. En este proyecto utilicé .NET Framework 4.8, conexiones a base de datos con ADO.NET, validaciones de campos con Error Provider. Para la organización del proyecto, implementé una arquitectura en capas.
+
+</p>
 </div>
                                                                                       
 </td>
