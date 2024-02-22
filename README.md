@@ -15,8 +15,8 @@
 ## Sobre mi
 
 ⭐ Apasionado por el desarrollo de software y la tecnología. <br>
-📚 Estudiante universitario de desarrollo de software y sistemas. <br>
-🎓 Tutor en Maxiprograma "Curso gratuito desde 0 - Nivel universidad". <br>
+📚 Estudiante universitario de desarrollo de software. <br>
+🎓 Tutor en Maxiprograma. <br>
 🎵 Músico. <br>
 💻 Programador backend .NET. <br>
 🧑‍🏫 Comprometido con el aprendizaje continuo y el desarrollo profesional. <br>
