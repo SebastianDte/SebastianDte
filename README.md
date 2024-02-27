@@ -19,7 +19,7 @@
 🎓 Tutor en Maxiprograma. <br>
 🎵 Músico. <br>
 💻 Programador backend .NET. <br>
-🧑‍🏫 Comprometido con el aprendizaje continuo y el desarrollo profesional. <br>
+🧑‍🏫 Comprometido con el aprendizaje continuo. <br>
 <br>
 
 ## Proyectos
