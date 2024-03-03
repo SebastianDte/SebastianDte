@@ -30,7 +30,7 @@
  <br>
 <h3 align="center">Gestión de Discos</h3>
 <div align="center">
-<a href="https://github.com/SebastianDte/Discos" target="_blank"><img src="https://i.imgur.com/0pX2nXS.png" width="500" alt="Gestión de Discos"></a>
+<a href="https://www.youtube.com/watch?v=U49eMwsuFIY" target="_blank"><img src="https://i.imgur.com/0pX2nXS.png" width="500" alt="Gestión de Discos"></a>
 <p>
 <a href="https://github.com/SebastianDte/Discos" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
