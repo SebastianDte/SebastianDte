@@ -15,10 +15,10 @@
 ## Sobre mi
 
 ⭐ Apasionado por el desarrollo de software y la tecnología. <br>
-📚 Estudiante universitario de desarrollo de software. <br>
+📚 Estudiante - Técnico Universitario en programación. <br>
 🎓 Tutor en Maxiprograma. <br>
 🎵 Músico. <br>
-💻 Programador backend .NET. <br>
+💻 Programador backend <br>
 🧑‍🏫 Comprometido con el aprendizaje continuo. <br>
 <br>
 
