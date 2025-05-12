@@ -1,6 +1,4 @@
-<div align="center">
-<h1 align="center">Hola, soy <a href="https://aristi.dev">Sebastian</a> 👋</h1>
-</div>
+
 <img src="https://i.imgur.com/wCYKqto.png">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sebastiandte/)
