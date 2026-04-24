@@ -1,65 +1,68 @@
+# Hola, soy Sebastián Duarte 👋
 
-<img src="https://i.imgur.com/wCYKqto.png">
+<p align="left">
+  <a href="https://www.linkedin.com/in/sebastiandte/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://sebastiandte.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Ver-5C2D91?style=flat-square" alt="Portfolio"></a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sebastiandte/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Ver-5C2D91?labelColor=5C2D91&color=6c757d)](https://sebastiandte.github.io/Portfolio/)
+# Desarrollador .NET
 
+**Técnico Universitario en Programación (UTN)**. Mi enfoque está orientado hacia el desarrollo Backend. Además del desarrollo de software, tengo una fuerte inclinación hacia la docencia técnica; actualmente me desempeño como **Code Reviewer** en el ecosistema .NET de la plataforma **MaxiPrograma**, donde realizo mentorías y revisiones de código en C#. También soy **Ayudante de Trabajos Prácticos** en la materia Programación I en la **UTN**.
 
+Mis próximos pasos están centrados en profundizar mi especialización dentro del ecosistema .NET y potenciar el desarrollo de soluciones digitales mediante el uso estratégico de la Inteligencia Artificial.
 
+---
 
+### 🛠️ Stack Tecnológico
+**Principal:** .NET | ASP.NET | SQL Server | React  
+**Complementario:** Node.js | Java | PostgreSQL | MySQL
 
+---
 
+* 🚀 **Arquitectura:** Construcción de aplicaciones robustas sobre plataforma .NET.
+* 🗄️ **Bases de Datos:** Diseño, gestión y optimización de bases de datos relacionales.
 
-## Sobre mi
+---
 
-⭐ Apasionado por el desarrollo de software y la tecnología. <br>
-📚 Estudiante - Técnico Universitario en programación. <br>
-🎓 Tutor en Maxiprograma. <br>
-🎵 Músico. <br>
-💻 Programador backend <br>
-🧑‍🏫 Comprometido con el aprendizaje continuo. <br>
-<br>
+### 💻 Proyectos Destacados
 
-## Proyectos
 <table>
 <tr>
 <td width="50%">
- <br>
- <br>
-<h3 align="center">Gestión de Discos</h3>
+<h3 align="center">Gestión de Discos (.NET)</h3>
 <div align="center">
-<a href="https://www.youtube.com/watch?v=U49eMwsuFIY" target="_blank"><img src="https://i.imgur.com/0pX2nXS.png" width="500" alt="Gestión de Discos"></a>
+<a href="https://www.youtube.com/watch?v=U49eMwsuFIY" target="_blank"><img src="https://i.imgur.com/0pX2nXS.png" width="100%" alt="Gestión de Discos"></a>
 <p>
 <a href="https://github.com/SebastianDte/Discos" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/CÓDIGO-black?style=for-the-badge&logo=github">
 </a>
 <a href="https://www.youtube.com/watch?v=U49eMwsuFIY" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+<img src="https://img.shields.io/badge/DEMO-red?style=for-the-badge&logo=youtube">
 </a>
 </p>
-<p>
-  Aplicación para la gestión de Discos musicales en la cual se pueden insertar, modificar o eliminar Discos, hacer búsquedas avanzadas contra la base de datos o rápidas sobre una copia de la lista. Posibilidad de subir imágenes locales o desde la web. En este proyecto utilicé .NET Framework 4.8, conexiones a base de datos con ADO.NET, validaciones de campos con Error Provider. Para la organización del proyecto, implementé una arquitectura en capas.
+<p align="left">
+Aplicación de escritorio para gestión de inventario musical. <br>
+✅ <b>Arquitectura:</b> Implementación de capas (UI, Business, Data). <br>
+✅ <b>Stack:</b> .NET Framework 4.8, ADO.NET, SQL Server.
 </p>
-</div>                                                                               
+</div>
 </td>
+
 <td width="50%">
- <br>       
-<h3 align="center">e-commerce</h3>
-<div align="center">                                       
-<a href="https://github.com/SebastianDte/e-commerce" target="_blank"><img src="https://i.imgur.com/S9b5e7L.png" width="500" alt="Winforms App, e-Commerce"></a>
-<br>
+<h3 align="center">E-Commerce ASP.NET</h3>
+<div align="center">
+<a href="https://github.com/SebastianDte/e-commerce" target="_blank"><img src="https://i.imgur.com/S9b5e7L.png" width="100%" alt="e-Commerce"></a>
 <p>
 <a href="https://github.com/SebastianDte/e-commerce" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
+<img src="https://img.shields.io/badge/CÓDIGO-black?style=for-the-badge&logo=github">
 </a>
 </p>
-Proyecto de e-commerce en proceso de construcción, utilizando .NET Framework. Esta aplicación está siendo diseñada como proyecto personal para la compra y venta de productos en línea. Con características como sistemas de pago seguros, gestión de perfiles de usuario y una interfaz intuitiva. Puedes ir viendo los avances haciendo click en la imagen
+<p align="left">
+Plataforma web para la gestión de compra y venta de productos. <br>
+✅ <b>Stack:</b> ASP.NET, C#, SQL Server. <br>
+✅ <b>Features:</b> Gestión de usuarios y carrito de compras.
 </p>
-</div>                                                             
-</table>                                                                                 
-
-
-
+</div>
+</td>
+</tr>
+</table>
