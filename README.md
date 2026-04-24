@@ -1,5 +1,3 @@
-# Hola, soy Sebastián Duarte 👋
-
 <p align="left">
   <a href="https://www.linkedin.com/in/sebastiandte/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
   <a href="https://www.sebastianduarte.online/"><img src="https://img.shields.io/badge/Portfolio-Ver-5C2D91?style=flat-square" alt="Portfolio"></a>
