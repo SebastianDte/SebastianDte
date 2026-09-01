@@ -1,6 +1,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/sebastiandte/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
   <a href="https://www.sebastianduarte.online/"><img src="https://img.shields.io/badge/Portfolio-Ver-5C2D91?style=flat-square" alt="Portfolio"></a>
+  <a href="https://www.sebateunmate.com/"><img src="https://img.shields.io/badge/Mentorías-Sebate_Un_Mate-28a745?style=flat-square&logo=coffeescript" alt="Mentorías"></a>
 </p>
 
 # Desarrollador Full Stack .NET
@@ -66,3 +67,17 @@ Plataforma web para la gestión de compra y venta de productos. <br>
 </td>
 </tr>
 </table>
+<br>
+
+---
+
+<div align="center">
+  <h3>👨‍🏫 Mentorías y Code Review </h3>
+  <p>¿Estás trabado con un trabajo práctico de la facultad o querés fortalecer tu lógica de programación?<br>Aprobá tus materias entendiendo lo que hacés. Mentorías 1 a 1 para destrabar tus proyectos y darle estructura a tu código.</p>
+  
+  <a href="https://www.sebateunmate.com">
+    <img src="https://img.shields.io/badge/🧉_Agendar_charla_gratuita_(20_min)-28a745?style=for-the-badge&logoColor=white" alt="Mentorías Sebate un mate">
+  </a>
+</div>
+
+---
