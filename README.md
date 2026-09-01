@@ -3,22 +3,24 @@
   <a href="https://www.sebastianduarte.online/"><img src="https://img.shields.io/badge/Portfolio-Ver-5C2D91?style=flat-square" alt="Portfolio"></a>
 </p>
 
-# Desarrollador .NET
+# Desarrollador Full Stack .NET
 
-**Técnico Universitario en Programación (UTN)**. Mi enfoque está orientado hacia el desarrollo Backend. Además del desarrollo de software, tengo una fuerte inclinación hacia la docencia técnica; actualmente me desempeño como **Code Reviewer** en el ecosistema .NET de la plataforma **MaxiPrograma**, donde realizo mentorías y revisiones de código en C#. También soy **Ayudante de Trabajos Prácticos** en la materia Programación I en la **UTN**.
+**Técnico Universitario en Programación (UTN)** y **Técnico Universitario en Desarrollo Web (UNER)**. Mi enfoque está orientado hacia el desarrollo Backend. Además del desarrollo de software, tengo una fuerte inclinación hacia la docencia técnica; actualmente me desempeño como **Code Reviewer** en el ecosistema .NET de la plataforma **MaxiPrograma**, donde realizo mentorías y revisiones de código en C#. También soy **Ayudante de Trabajos Prácticos** en la materia Programación I en la **UTN**.
 
-Mis próximos pasos están centrados en profundizar mi especialización dentro del ecosistema .NET y potenciar el desarrollo de soluciones digitales mediante el uso estratégico de la Inteligencia Artificial.
+Actualmente construyo arquitecturas backend que integran bases de datos relacionales con APIs de modelos de lenguaje (LLMs), automatizando procesos complejos y generando soluciones dinámicas basadas en datos estructurados.
 
 ---
 
 ### 🛠️ Stack Tecnológico
-**Principal:** .NET | ASP.NET | SQL Server | React | NextJs   
+**Principal:** .NET | ASP.NET | SQL Server | React | Next.Js   
 **Complementario:** Node.js | PostgreSQL | MySQL
+**IA & Integraciones:** LLM APIs Integration | Orquestación de Datos (DB + AI) | Markdown Contexts
 
 ---
 
 * 🚀 **Arquitectura:** Construcción de aplicaciones robustas sobre plataforma .NET.
 * 🗄️ **Bases de Datos:** Diseño, gestión y optimización de bases de datos relacionales.
+* 🤖 **AI Backend:** Integración de modelos de inteligencia artificial mediante APIs para procesar datos directamente desde la base de datos y automatizar flujos de trabajo.
 
 ---
 
