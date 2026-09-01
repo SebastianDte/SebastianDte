@@ -12,8 +12,8 @@ Mis próximos pasos están centrados en profundizar mi especialización dentro d
 ---
 
 ### 🛠️ Stack Tecnológico
-**Principal:** .NET | ASP.NET | SQL Server | React  
-**Complementario:** Node.js | Java | PostgreSQL | MySQL
+**Principal:** .NET | ASP.NET | SQL Server | React | NextJs   
+**Complementario:** Node.js | PostgreSQL | MySQL
 
 ---
 
