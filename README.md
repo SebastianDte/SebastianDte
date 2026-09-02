@@ -13,9 +13,10 @@ Actualmente construyo arquitecturas backend que integran bases de datos relacion
 ---
 
 ### 🛠️ Stack Tecnológico
-**Principal:** .NET | ASP.NET | SQL Server | React | Next.Js   
-**Complementario:** Node.js | PostgreSQL | MySQL
-**IA & Integraciones:** LLM APIs Integration | Orquestación de Datos (DB + AI) 
+
+- **Principal:** .NET | ASP.NET | SQL Server | React | Next.js
+- **Complementario:** Node.js | PostgreSQL | MySQL
+- **IA & Integraciones:** LLM APIs Integration | Orquestación de Datos (DB + AI)
 ---
 
 * 🚀 **Arquitectura:** Construcción de aplicaciones robustas sobre plataforma .NET.
