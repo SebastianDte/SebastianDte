@@ -37,7 +37,7 @@ Especializado en el diseño y desarrollo de **APIs RESTful, arquitecturas en cap
       </a>
       <h3>🎯 SearchingWork — Personal ATS & AI Market Intelligence</h3>
       <p>Plataforma Web + Extensión de Chrome (MV3) para capturar vacantes en 1 clic, extraer el stack técnico estructurado con <b>Google Gemini API</b> (cascada de modelos tolerante a fallos) y gestionar postulaciones con alertas y analítica de mercado.</p>
-      <p><code>C#</code> · <code>ASP.NET Core (.NET 10)</code> · <code>EF Core</code> · <code>PostgreSQL</code> · <code>Gemini AI</code> · <code>React</code> · <code>Chrome MV3</code></p>
+      <p><code>C#</code> · <code>ASP.NET&nbsp;Core&nbsp;(.NET&nbsp;10)</code> · <code>EF&nbsp;Core</code> · <code>PostgreSQL</code> · <code>Gemini&nbsp;AI</code> · <code>React</code> · <code>Chrome&nbsp;MV3</code></p>
       <p>
         <a href="https://www.sebastianduarte.com/searchingwork"><img src="https://img.shields.io/badge/🌐_Landing_&_Demo-0E7490?style=for-the-badge" alt="Landing SearchingWork"></a>
         <a href="https://github.com/SebastianDte/SearchingWork"><img src="https://img.shields.io/badge/📘_Arquitectura_&_Repo-0F2744?style=for-the-badge&logo=github" alt="Repo SearchingWork"></a>
@@ -48,10 +48,10 @@ Especializado en el diseño y desarrollo de **APIs RESTful, arquitecturas en cap
         <img src="./assets/mateflow.jpg" alt="MateFlow — AI Productivity Copilot & Calendar Sync" width="100%" />
       </a>
       <h3>🧉 MateFlow — AI Productivity Copilot & Calendar Sync</h3>
-      <p>Copiloto cognitivo GTD (<b>Web PWA + Windows Desktop Electron con mini-widget PiP Always-on-Top</b>) que sincroniza múltiples cuentas de <b>Google Calendar API</b> y opera un agente IA (<b>mateBot</b>) con 19 herramientas bajo protocolo <i>Human-in-the-Loop</i>.</p>
-      <p><code>C#</code> · <code>ASP.NET Core (.NET 10)</code> · <code>EF Core</code> · <code>PostgreSQL</code> · <code>Gemini AI</code> · <code>React</code> · <code>Electron</code></p>
+      <p>Copiloto cognitivo GTD (<b>Web PWA + Windows Desktop Electron con widget PiP Always-on-Top</b>) que sincroniza múltiples cuentas de <b>Google Calendar API</b> y opera un agente IA (<b>mateBot</b>) con 19 herramientas <i>Human-in-the-Loop</i>.</p>
+      <p><code>C#</code> · <code>ASP.NET&nbsp;Core&nbsp;(.NET&nbsp;10)</code> · <code>EF&nbsp;Core</code> · <code>PostgreSQL</code> · <code>Gemini&nbsp;AI</code> · <code>React</code> · <code>Electron</code></p>
       <p>
-        <a href="https://mateflow-inky.vercel.app"><img src="https://img.shields.io/badge/🚀_App_en_Producción-0E7490?style=for-the-badge" alt="App MateFlow"></a>
+        <a href="https://mateflow-inky.vercel.app"><img src="https://img.shields.io/badge/🚀_Demo_&_Web_App-0E7490?style=for-the-badge" alt="App MateFlow"></a>
         <a href="https://github.com/SebastianDte/mateflow"><img src="https://img.shields.io/badge/📘_Arquitectura_&_Repo-0F2744?style=for-the-badge&logo=github" alt="Repo MateFlow"></a>
       </p>
     </td>
@@ -68,9 +68,9 @@ Especializado en el diseño y desarrollo de **APIs RESTful, arquitecturas en cap
       <a href="https://github.com/SebastianDte/Plataforma-cursos-dotnet">
         <img src="./assets/devcore-ui.png" alt="DevCore Academy LMS" width="100%" />
       </a>
-      <h3>🎓 DevCore Academy — Plataforma E-Learning LMS</h3>
-      <p>Sistema integral de capacitación online diseñado en arquitectura de <b>4 capas (Dominio, Negocio, Datos, Presentación)</b>. Incluye 5 subdominios, <b>69 Stored Procedures en T-SQL</b>, auditoría de pagos, integración con YouTube API v3, notificaciones SMTP y emisión de certificados PDF con <b>iTextSharp</b>.</p>
-      <p><code>C#</code> · <code>.NET Framework 4.8</code> · <code>ASP.NET WebForms</code> · <code>ADO.NET</code> · <code>SQL Server</code></p>
+      <h3>🎓 DevCore Academy — Plataforma LMS (.NET)</h3>
+      <p>Sistema integral de e-learning diseñado en arquitectura de <b>4 capas (N-Tier)</b> con 5 subdominios, <b>69 Stored Procedures en T-SQL</b>, auditoría de pagos, integración con YouTube API v3, envíos SMTP y certificados PDF con <b>iTextSharp</b>.</p>
+      <p><code>C#</code> · <code>.NET&nbsp;4.8</code> · <code>ASP.NET&nbsp;WebForms</code> · <code>ADO.NET</code> · <code>SQL&nbsp;Server</code></p>
       <p>
         <a href="https://github.com/SebastianDte/Plataforma-cursos-dotnet"><img src="https://img.shields.io/badge/Ver_Arquitectura_y_Repositorio-512BD4?style=flat-square&logo=github" alt="Repo LMS"></a>
       </p>
@@ -79,9 +79,9 @@ Especializado en el diseño y desarrollo de **APIs RESTful, arquitecturas en cap
       <a href="https://github.com/SebastianDte/Sistema-gestion-articulos">
         <img src="./assets/stockcore-ui.png" alt="StockCore Desktop" width="100%" />
       </a>
-      <h3>📦 StockCore Desktop — Gestión Comercial de Inventario</h3>
-      <p>Aplicación nativa de escritorio en arquitectura <b>N-Tier</b> con interfaz <b>Material Design (MaterialSkin)</b>. Implementa constructor dinámico de filtros SQL parametrizados, persistencia maestro-detalle de galería de imágenes (<code>OUTPUT INSERTED.Id</code>) y protección de integridad referencial.</p>
-      <p><code>C#</code> · <code>.NET Framework 4.8</code> · <code>Windows Forms</code> · <code>ADO.NET</code> · <code>SQL Server</code></p>
+      <h3>📦 StockCore Desktop — Gestión de Inventario</h3>
+      <p>Aplicación nativa de escritorio en arquitectura de <b>4 capas (N-Tier)</b> con interfaz <b>MaterialSkin</b>, constructor dinámico de filtros SQL parametrizados, galería maestro-detalle (<code>OUTPUT&nbsp;INSERTED</code>) y control de integridad referencial.</p>
+      <p><code>C#</code> · <code>.NET&nbsp;4.8</code> · <code>Windows&nbsp;Forms</code> · <code>ADO.NET</code> · <code>SQL&nbsp;Server</code></p>
       <p>
         <a href="https://github.com/SebastianDte/Sistema-gestion-articulos"><img src="https://img.shields.io/badge/Ver_Arquitectura_y_Repositorio-512BD4?style=flat-square&logo=github" alt="Repo StockCore"></a>
       </p>
