@@ -7,55 +7,99 @@
 
 # Sebastián Duarte — Backend .NET & AI Solutions Developer
 
-Especializado en el diseño y desarrollo de **APIs RESTful, arquitecturas en capas y sistemas transaccionales en el ecosistema .NET (C#, ASP.NET Core, Entity Framework Core, ADO.NET)** sobre bases de datos relacionales (**SQL Server** y **PostgreSQL**), integrando modelos de Inteligencia Artificial (**Google Gemini API**) en flujos de producción.
+Especializado en el diseño y desarrollo de **APIs RESTful, arquitecturas en capas (N-Tier / Clean Architecture) y sistemas transaccionales en el ecosistema .NET (C#, ASP.NET Core, Entity Framework Core, ADO.NET)** sobre motores relacionales (**SQL Server** y **PostgreSQL**), integrando modelos de **Inteligencia Artificial (Google Gemini API)** en productos reales en producción.
 
-- 🔭 **Foco actual:** Migración de productos SaaS propios (**SearchingWork** y **MateFlow**) hacia arquitectura empresarial **ASP.NET Core (.NET 10) Web API + EF Core + PostgreSQL + React**.
-- 💼 **Experiencia técnica:** Desarrollo Backend freelance (arquitectura PostgreSQL con *Row Level Security*, triggers y autenticación), **Code Reviewer** en el ecosistema C#/.NET (**MaxiPrograma**) y **Ayudante de Cátedra** de Programación I (**UTN - FRGP**).
-- 🎓 **Formación:** Técnico Universitario en Desarrollo Web (**UNER**) y cursada completada de la Tecnicatura Universitaria en Programación (**UTN**, TFI en curso).
+- **🏗️ Arquitectura Backend & Datos (.NET):** Diseño de sistemas desacoplados, modelado relacional y optimización de consultas en **SQL Server** y **PostgreSQL** (*Stored Procedures*, *Triggers*, *Row Level Security* y transacciones).
+- **🧠 IA Aplicada en Producción:** Orquestación de **Google Gemini API** en backends propios (**SearchingWork** y **MateFlow**) mediante agentes con *Function Calling*, extracción estructurada (*JSON Schema*) y cascadas de modelos tolerantes a fallos.
+- **👨‍🏫 Criterio Técnico & Docencia:** Desarrollador Backend freelance, **Code Reviewer C#/.NET** en **MaxiPrograma** y **Ayudante de Cátedra** de Programación I en **UTN - FRGP**.
+- **🎓 Doble Formación Universitaria:** Graduado como **Técnico Universitario en Desarrollo Web (UNER)** y **Tecnicatura Universitaria en Programación (UTN - FRGP)** con el 100% de la cursada aprobada (TFI en curso).
 
 ---
 
-### 🛠️ Stack Tecnológico
+### 🛠️ Stack Principal (.NET, Datos & IA)
 
-| Área | Tecnologías y Herramientas |
+| Especialidad | Tecnologías y Herramientas de Producción |
 | :--- | :--- |
-| **Backend & .NET** | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![.NET 10](https://img.shields.io/badge/.NET_10-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=nuget&logoColor=white) ![.NET Framework](https://img.shields.io/badge/.NET_Framework_4.8-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![ADO.NET](https://img.shields.io/badge/ADO.NET-0F2744?style=flat-square) |
-| **Bases de Datos** | ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase_(RLS)-3ECF8E?style=flat-square&logo=supabase&logoColor=white) |
-| **Frontend & Extensiones** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Chrome MV3](https://img.shields.io/badge/Chrome_Extension_MV3-4285F4?style=flat-square&logo=googlechrome&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
-| **IA, Seguridad & DevOps** | ![Gemini API](https://img.shields.io/badge/Google_Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![JWT](https://img.shields.io/badge/JWT_/_OAuth2-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) ![Git](https://img.shields.io/badge/Git_&_GitHub-F05032?style=flat-square&logo=git&logoColor=white) ![Clean Architecture](https://img.shields.io/badge/N--Tier_&_Clean_Arch-0E7490?style=flat-square) |
+| **Ecosistema .NET** | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![.NET 10](https://img.shields.io/badge/.NET_10_%2F_.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core_Web_API-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![EF Core](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=flat-square&logo=nuget&logoColor=white) ![.NET Framework 4.8](https://img.shields.io/badge/.NET_Framework_4.8-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![ADO.NET](https://img.shields.io/badge/ADO.NET-0F2744?style=flat-square) ![LINQ](https://img.shields.io/badge/LINQ-512BD4?style=flat-square) |
+| **Bases de Datos** | ![SQL Server](https://img.shields.io/badge/SQL_Server_(T--SQL)-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Stored Procedures](https://img.shields.io/badge/Stored_Procedures_%26_Triggers-1E293B?style=flat-square) |
+| **IA & Arquitectura** | ![Gemini API](https://img.shields.io/badge/Google_Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![AI Agents](https://img.shields.io/badge/Function_Calling_%26_Structured_JSON-0E7490?style=flat-square) ![Clean Arch](https://img.shields.io/badge/Clean_Architecture_%26_N--Tier-0F2744?style=flat-square) ![JWT](https://img.shields.io/badge/JWT_%2F_OAuth_2.0-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) |
+| **Frontend & Clientes** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Chrome MV3](https://img.shields.io/badge/Chrome_Extension_MV3-4285F4?style=flat-square&logo=googlechrome&logoColor=white) ![Electron](https://img.shields.io/badge/Electron_Desktop-191970?style=flat-square&logo=electron&logoColor=white) ![Git](https://img.shields.io/badge/Git_%26_GitHub-F05032?style=flat-square&logo=git&logoColor=white) |
 
 ---
 
-### 🚀 Productos SaaS en Producción (Repositorios Showcase)
+### 🚀 1. Productos SaaS en Producción (.NET + AI Solutions)
 
 <table>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://github.com/SebastianDte/SearchingWork">
+        <img src="./assets/searchingWork.png" alt="SearchingWork — Personal ATS & AI Market Intelligence" width="100%" />
+      </a>
       <h3>🎯 SearchingWork — Personal ATS & AI Market Intelligence</h3>
-      <p>Plataforma web y extensión de Chrome (MV3) para capturar vacantes en 1 clic, extraer el stack técnico con <b>Google Gemini API</b> y gestionar postulaciones con alertas de seguimiento y métricas de mercado.</p>
-      <p><b>Stack:</b> ASP.NET Core (.NET 10) · EF Core · PostgreSQL · React · TypeScript · Chrome MV3 · Gemini AI</p>
-      <a href="https://github.com/SebastianDte/SearchingWork"><img src="https://img.shields.io/badge/Arquitectura_&_Docs-0F2744?style=flat-square&logo=github" alt="Repo SearchingWork"></a>
-      <a href="https://www.sebastianduarte.com/searchingwork"><img src="https://img.shields.io/badge/Landing_&_Demo-0E7490?style=flat-square&logo=googlechrome&logoColor=white" alt="Landing SearchingWork"></a>
+      <p>Plataforma Web + Extensión de Chrome (MV3) para capturar vacantes en 1 clic, extraer el stack técnico estructurado con <b>Google Gemini API</b> (cascada de modelos tolerante a fallos) y gestionar postulaciones con alertas y analítica de mercado.</p>
+      <p><code>C#</code> · <code>ASP.NET Core (.NET 10)</code> · <code>EF Core</code> · <code>PostgreSQL</code> · <code>Gemini AI</code> · <code>React</code> · <code>Chrome MV3</code></p>
+      <p>
+        <a href="https://www.sebastianduarte.com/searchingwork"><img src="https://img.shields.io/badge/🌐_Landing_&_Demo-0E7490?style=for-the-badge" alt="Landing SearchingWork"></a>
+        <a href="https://github.com/SebastianDte/SearchingWork"><img src="https://img.shields.io/badge/📘_Arquitectura_&_Repo-0F2744?style=for-the-badge&logo=github" alt="Repo SearchingWork"></a>
+      </p>
     </td>
     <td width="50%" valign="top">
+      <a href="https://github.com/SebastianDte/mateflow">
+        <img src="./assets/mateflow.jpg" alt="MateFlow — AI Productivity Copilot & Calendar Sync" width="100%" />
+      </a>
       <h3>🧉 MateFlow — AI Productivity Copilot & Calendar Sync</h3>
-      <p>Copiloto cognitivo GTD (Web PWA + Desktop PiP) que sincroniza múltiples cuentas de <b>Google Calendar API</b>, gestiona bloques de foco y opera un agente IA (<b>mateBot</b>) con 19 herramientas bajo protocolo <i>Human-in-the-Loop</i>.</p>
-      <p><b>Stack:</b> ASP.NET Core (.NET 10) · EF Core · PostgreSQL · React · Google Calendar API · Gemini AI</p>
-      <a href="https://github.com/SebastianDte/MateFlow"><img src="https://img.shields.io/badge/Arquitectura_&_Docs-0F2744?style=flat-square&logo=github" alt="Repo MateFlow"></a>
-      <a href="https://mateflow-inky.vercel.app"><img src="https://img.shields.io/badge/App_en_Producción-0E7490?style=flat-square&logo=googlechrome&logoColor=white" alt="App MateFlow"></a>
+      <p>Copiloto cognitivo GTD (<b>Web PWA + Windows Desktop Electron con mini-widget PiP Always-on-Top</b>) que sincroniza múltiples cuentas de <b>Google Calendar API</b> y opera un agente IA (<b>mateBot</b>) con 19 herramientas bajo protocolo <i>Human-in-the-Loop</i>.</p>
+      <p><code>C#</code> · <code>ASP.NET Core (.NET 10)</code> · <code>EF Core</code> · <code>PostgreSQL</code> · <code>Gemini AI</code> · <code>React</code> · <code>Electron</code></p>
+      <p>
+        <a href="https://mateflow-inky.vercel.app"><img src="https://img.shields.io/badge/🚀_App_en_Producción-0E7490?style=for-the-badge" alt="App MateFlow"></a>
+        <a href="https://github.com/SebastianDte/mateflow"><img src="https://img.shields.io/badge/📘_Arquitectura_&_Repo-0F2744?style=for-the-badge&logo=github" alt="Repo MateFlow"></a>
+      </p>
     </td>
   </tr>
 </table>
 
 ---
 
-### 💻 Sistemas Open Source Destacados
+### 🏛️ 2. Ingeniería de Software en .NET (Arquitectura N-Tier & SQL Server)
 
-- **[DevCore Academy — Plataforma LMS (.NET)](https://github.com/SebastianDte/Plataforma-cursos-dotnet):** Sistema integral de e-learning en arquitectura N-Tier con **C# (.NET Framework 4.8), ASP.NET WebForms, ADO.NET y SQL Server** (69 Stored Procedures, autenticación con hash PBKDF2, carrito, control de roles Admin/Alumno y emisión de certificados PDF).
-- **[Sistema de Gestión de Artículos (.NET Desktop)](https://github.com/SebastianDte/Sistema-gestion-articulos):** Aplicación de escritorio para administración comercial de inventario, marcas y categorías en **C#, .NET Framework 4.8, WinForms, ADO.NET y SQL Server**.
-- **[API REST — Gestión de Reclamos](https://github.com/SebastianDte/API_REST_GESTION_DE_RECLAMOS):** Backend RESTful con arquitectura en capas, autenticación **JWT**, control de roles, **Node.js, Express y MySQL** con Stored Procedures.
-- **[Sistema de Encuestas Anónimas](https://github.com/SebastianDte/sistema_de_Encuestas_Anonimas):** Aplicación web fullstack con **Angular, TypeScript, NestJS y MySQL** para creación, distribución y analítica de encuestas.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/SebastianDte/Plataforma-cursos-dotnet">
+        <img src="./assets/devcore-ui.png" alt="DevCore Academy LMS" width="100%" />
+      </a>
+      <h3>🎓 DevCore Academy — Plataforma E-Learning LMS</h3>
+      <p>Sistema integral de capacitación online diseñado en arquitectura de <b>4 capas (Dominio, Negocio, Datos, Presentación)</b>. Incluye 5 subdominios, <b>69 Stored Procedures en T-SQL</b>, auditoría de pagos, integración con YouTube API v3, notificaciones SMTP y emisión de certificados PDF con <b>iTextSharp</b>.</p>
+      <p><code>C#</code> · <code>.NET Framework 4.8</code> · <code>ASP.NET WebForms</code> · <code>ADO.NET</code> · <code>SQL Server</code></p>
+      <p>
+        <a href="https://github.com/SebastianDte/Plataforma-cursos-dotnet"><img src="https://img.shields.io/badge/Ver_Arquitectura_y_Repositorio-512BD4?style=flat-square&logo=github" alt="Repo LMS"></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/SebastianDte/Sistema-gestion-articulos">
+        <img src="./assets/stockcore-ui.png" alt="StockCore Desktop" width="100%" />
+      </a>
+      <h3>📦 StockCore Desktop — Gestión Comercial de Inventario</h3>
+      <p>Aplicación nativa de escritorio en arquitectura <b>N-Tier</b> con interfaz <b>Material Design (MaterialSkin)</b>. Implementa constructor dinámico de filtros SQL parametrizados, persistencia maestro-detalle de galería de imágenes (<code>OUTPUT INSERTED.Id</code>) y protección de integridad referencial.</p>
+      <p><code>C#</code> · <code>.NET Framework 4.8</code> · <code>Windows Forms</code> · <code>ADO.NET</code> · <code>SQL Server</code></p>
+      <p>
+        <a href="https://github.com/SebastianDte/Sistema-gestion-articulos"><img src="https://img.shields.io/badge/Ver_Arquitectura_y_Repositorio-512BD4?style=flat-square&logo=github" alt="Repo StockCore"></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-📫 **Contacto directo:** [contacto@sebastianduarte.com](mailto:contacto@sebastianduarte.com) · [www.sebastianduarte.com](https://www.sebastianduarte.com)
+### ⚡ 3. Otros Desarrollos & Tecnologías Complementarias
+
+Tecnologías adicionales aplicadas en arquitecturas RESTful y proyectos Open Source complementarios:
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=flat-square&logo=typeorm&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+- 📊 **[AnonPoll Engine — Sistema Distribuido de Encuestas Anónimas](https://github.com/SebastianDte/sistema_de_Encuestas_Anonimas):** Plataforma Full-Stack *Zero-Auth* basada en *Capability URLs* (`UUID v4`), serialización condicional por grupos, códigos QR y analítica en tiempo real (`NestJS 11` · `TypeORM` · `PostgreSQL` · `Angular 19`).
+- 🛡️ **[ServiceDesk Engine — API REST de Gestión de Reclamos](https://github.com/SebastianDte/API_REST_GESTION_DE_RECLAMOS):** Backend RESTful en 4 capas con autenticación `Passport + JWT`, autorización RBAC por rol, notificaciones SMTP con `Handlebars` y exportación de reportes en `PDF` y `CSV` vía Stored Procedures (`Node.js` · `Express` · `MySQL`).
+
+---
+
+📫 **Contacto directo:** [contacto@sebastianduarte.com](mailto:contacto@sebastianduarte.com) · [www.sebastianduarte.com](https://www.sebastianduarte.com) · [LinkedIn](https://www.linkedin.com/in/sebastiandte/)
