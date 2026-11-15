@@ -69,7 +69,7 @@ Especializado en el diseño y desarrollo de **APIs RESTful, arquitecturas en cap
         <img src="./assets/devcore-ui.png" alt="DevCore Academy LMS" width="100%" />
       </a>
       <h3>🎓 DevCore Academy — Plataforma LMS (.NET)</h3>
-      <p>Sistema integral de e-learning diseñado en arquitectura de <b>4 capas (N-Tier)</b> con 5 subdominios, <b>69 Stored Procedures en T-SQL</b>, auditoría de pagos, integración con YouTube API v3, envíos SMTP y certificados PDF con <b>iTextSharp</b>.</p>
+      <p>Sistema integral de e-learning diseñado en arquitectura de <b>4 capas (N-Tier)</b> con 5 subdominios, <b>69 Stored Procedures en T-SQL</b>, seguridad criptográfica <b>PBKDF2</b>, conciliación de pagos, aula virtual con seguimiento de avance y notificaciones transaccionales <b>SMTP</b>.</p>
       <p><code>C#</code> · <code>.NET&nbsp;4.8</code> · <code>ASP.NET&nbsp;WebForms</code> · <code>ADO.NET</code> · <code>SQL&nbsp;Server</code></p>
       <p>
         <a href="https://github.com/SebastianDte/Plataforma-cursos-dotnet"><img src="https://img.shields.io/badge/Ver_Arquitectura_y_Repositorio-512BD4?style=flat-square&logo=github" alt="Repo LMS"></a>
@@ -80,7 +80,7 @@ Especializado en el diseño y desarrollo de **APIs RESTful, arquitecturas en cap
         <img src="./assets/stockcore-ui.png" alt="StockCore Desktop" width="100%" />
       </a>
       <h3>📦 StockCore Desktop — Gestión de Inventario</h3>
-      <p>Aplicación nativa de escritorio en arquitectura de <b>4 capas (N-Tier)</b> con interfaz <b>MaterialSkin</b>, constructor dinámico de filtros SQL parametrizados, galería maestro-detalle (<code>OUTPUT&nbsp;INSERTED</code>) y control de integridad referencial.</p>
+      <p>Aplicación nativa de escritorio en arquitectura de <b>3 capas (N-Tier)</b> con interfaz <b>MaterialSkin 2</b>, motor de filtrado dual (en memoria y SQL parametrizado), reconciliación diferencial de galerías multimedia (<code>SCOPE_IDENTITY()</code>) y control de integridad referencial.</p>
       <p><code>C#</code> · <code>.NET&nbsp;4.8</code> · <code>Windows&nbsp;Forms</code> · <code>ADO.NET</code> · <code>SQL&nbsp;Server</code></p>
       <p>
         <a href="https://github.com/SebastianDte/Sistema-gestion-articulos"><img src="https://img.shields.io/badge/Ver_Arquitectura_y_Repositorio-512BD4?style=flat-square&logo=github" alt="Repo StockCore"></a>
@@ -98,7 +98,7 @@ Tecnologías adicionales aplicadas en arquitecturas RESTful y proyectos Open Sou
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=flat-square&logo=typeorm&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 - 📊 **[AnonPoll Engine — Sistema Distribuido de Encuestas Anónimas](https://github.com/SebastianDte/sistema_de_Encuestas_Anonimas):** Plataforma Full-Stack *Zero-Auth* basada en *Capability URLs* (`UUID v4`), serialización condicional por grupos, códigos QR y analítica en tiempo real (`NestJS 11` · `TypeORM` · `PostgreSQL` · `Angular 19`).
-- 🛡️ **[ServiceDesk Engine — API REST de Gestión de Reclamos](https://github.com/SebastianDte/API_REST_GESTION_DE_RECLAMOS):** Backend RESTful en 4 capas con autenticación `Passport + JWT`, autorización RBAC por rol, notificaciones SMTP con `Handlebars` y exportación de reportes en `PDF` y `CSV` vía Stored Procedures (`Node.js` · `Express` · `MySQL`).
+- 🛡️ **[ServiceDesk Engine — API REST de Gestión de Reclamos](https://github.com/SebastianDte/API_REST_GESTION_DE_RECLAMOS):** Backend RESTful en 4 capas desacopladas con autenticación `Passport-JWT` en cookies `HttpOnly` + `bcrypt`, control RBAC de 3 roles, protección Anti-IDOR, aislamiento departamental por oficina y notificaciones transaccionales con `Handlebars + Nodemailer` (`Node.js` · `Express` · `MySQL`).
 
 ---
 
